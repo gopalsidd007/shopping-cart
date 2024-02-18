@@ -18,6 +18,9 @@ const ProductCard = () => {
   // const cart=useSelector(state=>state.allcart)
   console.log(items);
   // console.log(cart);
+  console.log("a");
+  console.log("b");
+  console.log("b");
   
 
   const dispatch=useDispatch()
